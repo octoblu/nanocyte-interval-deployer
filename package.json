@@ -1,0 +1,27 @@
+{
+  "name": "nanocyte-mass-interval-deployer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/octoblu/nanocyte-mass-interval-deployer.git"
+  },
+  "author": "Peter DeMartini",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/octoblu/nanocyte-mass-interval-deployer/issues"
+  },
+  "homepage": "https://github.com/octoblu/nanocyte-mass-interval-deployer#readme",
+  "dependencies": {
+    "coffee-script": "^1.10.0",
+    "debug": "^2.2.0",
+    "lodash": "^3.10.1",
+    "meshblu-config": "^3.1.1",
+    "meshblu-http": "^3.5.4",
+    "request": "^2.65.0"
+  }
+}
